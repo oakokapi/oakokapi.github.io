@@ -1,0 +1,56 @@
+/*Rachel Lutz */
+
+body {
+font-family: Arial, Helvetica, sans-serif; 
+margin: 4em 15% 0 15%;
+background-color: #D7DFDD;
+color: #000000;
+}
+
+h1 {
+text-align: center;
+letter-spacing: .25em;
+border-bottom: 8px double #04665F;
+padding-bottom: .3em;
+margin-bottom: 2em;
+}
+
+p {
+line-height: 1.25em;
+}
+
+
+img {
+border: 4px solid #04665F;
+padding: 15px;
+background-color: #5E584E;
+color: #FFFFFF;
+}
+
+h2 {
+margin-top: 2em;
+color: #04665F;
+background-color: #FFFFFF;
+padding: .4em;
+border-top: 12px double #D7DFDD;
+border-bottom: 12px double #D7DFDD;
+}
+
+a {
+color: #000099;
+font-weight: bold;
+background-color: #D7DFDD;
+}
+
+ul {
+margin-left: 5em;
+}
+
+li {
+list-style-type: square;
+padding-bottom:	.3em;
+}
+
+abbr {
+border-bottom: 2px dotted #000000;
+}

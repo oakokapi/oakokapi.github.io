@@ -1,0 +1,121 @@
+/* Rachel Lutz */
+
+html, body {
+margin: 0;
+padding: 0;
+}
+
+body {
+background-image: url(comptech.jpg);
+}
+
+h2 {
+margin: 1em 0 .5em 0;
+letter-spacing: 3px;
+}
+
+#container {
+width: 760px;
+margin: 0 auto;
+background-color: #FFF;
+color: #000;
+border: 5px solid #57779D;
+line-height: 1.5em;
+font-family: "Trebuchet MS",Arial,sans-serif;
+font-size: .9em;
+}
+
+#header {
+padding: 0;
+background-image: url(head.jpg);
+background-repeat: no-repeat;
+height: 100px;
+}
+
+#header h1 {
+padding: 40px 0 8px 100px;
+margin: 0;
+letter-spacing: 3px;
+}
+
+#nav ul {
+text-align: center;
+padding: 5px 0;
+margin: 0;
+background-color: #57779D;
+color: #FFFFFF;
+font-family: Arial,Helvetica,sans-serif;
+}
+
+#nav a {
+padding: 5px 10px;
+background-color: #57779D;
+color: #FFFFFF;
+text-decoration: none;
+}
+
+#nav #current {
+color: #FFCC33;
+background-color: #57779D;
+}
+
+#nav li {
+display: inline;
+padding: 5px 0;
+border-right: 1px solid #FFFFFF;
+font-weight: bold;
+}
+
+#nav #first {
+border-left: 1px solid #FFFFFF;
+}
+
+#content {
+padding: 1em;
+}
+
+#content p {
+padding: 0 2em;
+}
+
+#noshow {
+display: none;
+}
+
+#footer {
+font-size: .9em;
+border-top: 5px solid #57779D;
+}
+
+#footer p {
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
